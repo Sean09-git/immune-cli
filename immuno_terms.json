@@ -278,5 +278,75 @@
     "french": "Lumière solaire et vitamine D",
     "category": "Daily-life",
     "definition_en": "Sunlight on skin synthesises vitamin D, which directly regulates immune cell function — modulating both innate and adaptive arms."
+  },
+  {
+    "name": "Allergen",
+    "korean": "알레르겐",
+    "french": "Allergène",
+    "category": "Allergy",
+    "definition_en": "An allergen is any substance — food, pollen, venom, or drug — that triggers an IgE-mediated immune reaction in a sensitised individual."
+  },
+  {
+    "name": "Sensitization",
+    "korean": "감작",
+    "french": "Sensibilisation",
+    "category": "Allergy",
+    "definition_en": "Sensitisation is the silent first phase of allergy — repeated allergen exposure trains B cells to produce IgE, arming mast cells for future reactions."
+  },
+  {
+    "name": "Eczema",
+    "korean": "습진",
+    "french": "Eczéma",
+    "category": "Allergy",
+    "definition_en": "Eczema (atopic dermatitis) is a chronic inflammatory skin condition driven by a disrupted barrier and Th2-skewed immunity, often the first step of the atopic march."
+  },
+  {
+    "name": "Asthma",
+    "korean": "천식",
+    "french": "Asthme",
+    "category": "Allergy",
+    "definition_en": "Asthma is a chronic airway condition of reversible bronchoconstriction, typically triggered by allergens, exercise, or infection in atopic individuals."
+  },
+  {
+    "name": "Allergic Rhinitis",
+    "korean": "알레르기성 비염",
+    "french": "Rhinite allergique",
+    "category": "Allergy",
+    "definition_en": "Allergic rhinitis (hay fever) is IgE-mediated inflammation of the nasal mucosa causing sneezing, itching, and congestion in response to airborne allergens."
+  },
+  {
+    "name": "Food Allergy",
+    "korean": "식품 알레르기",
+    "french": "Allergie alimentaire",
+    "category": "Allergy",
+    "definition_en": "A food allergy is an IgE-mediated immune reaction to a specific food protein, ranging from hives and vomiting to life-threatening anaphylaxis."
+  },
+  {
+    "name": "Urticaria",
+    "korean": "두드러기",
+    "french": "Urticaire",
+    "category": "Allergy",
+    "definition_en": "Urticaria (hives) is a skin reaction of raised, itchy wheals caused by mast cell histamine release, triggered by allergens, infections, or stress."
+  },
+  {
+    "name": "Cross-Reactivity",
+    "korean": "교차 반응성",
+    "french": "Réactivité croisée",
+    "category": "Allergy",
+    "definition_en": "Cross-reactivity occurs when antibodies trained against one allergen also bind a structurally similar protein in a different substance, causing unexpected reactions."
+  },
+  {
+    "name": "Epinephrine",
+    "korean": "에피네프린",
+    "french": "Épinéphrine",
+    "category": "Molecules",
+    "definition_en": "Epinephrine (adrenaline) is the first-line emergency treatment for anaphylaxis, rapidly reversing vasodilation and bronchoconstriction within minutes."
+  },
+  {
+    "name": "Allergen Immunotherapy",
+    "korean": "알레르겐 면역요법",
+    "french": "Immunothérapie allergénique",
+    "category": "Vaccines",
+    "definition_en": "Allergen immunotherapy gradually desensitises the immune system through controlled, escalating allergen exposure — the only disease-modifying treatment for allergy."
   }
 ]
