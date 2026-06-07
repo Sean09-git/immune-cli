@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Complement",
+    "korean": "보체 시스템",
+    "french": "Système du complément",
+    "category": "Innate",
+    "definition_en": "The complement system is a cascade of ~30 blood proteins that punch holes in pathogens, tag them for eating, and amplify inflammation."
+  },
+  {
+    "name": "Innate Immunity",
+    "korean": "선천 면역",
+    "french": "Immunité innée",
+    "category": "Innate",
+    "definition_en": "Innate immunity is the body's inherited, first-line defense — fast, broad, and the same in every person."
+  },
+  {
+    "name": "Macrophage",
+    "korean": "대식세포",
+    "french": "Macrophage",
+    "category": "Innate",
+    "definition_en": "A macrophage is a long-lived innate immune cell that eats pathogens, cleans debris, and signals the rest of the immune system."
+  },
+  {
+    "name": "Neutrophil",
+    "korean": "호중구",
+    "french": "Neutrophile",
+    "category": "Innate",
+    "definition_en": "A neutrophil is the most abundant white blood cell — a short-lived innate phagocyte that arrives first at infection sites."
+  },
+  {
+    "name": "NK Cell",
+    "korean": "자연살해세포",
+    "french": "Cellule NK",
+    "category": "Innate",
+    "definition_en": "An NK (natural killer) cell is an innate lymphocyte that kills virally infected and cancerous cells without needing prior exposure."
+  },
+  {
+    "name": "Adaptive Immunity",
+    "korean": "적응 면역",
+    "french": "Immunité adaptative",
+    "category": "Adaptive",
+    "definition_en": "Adaptive immunity is the body's tailored defense — slow at first, but precise, and it remembers."
+  },
+  {
+    "name": "B Cell",
+    "korean": "B 세포",
+    "french": "Cellule B",
+    "category": "Adaptive",
+    "definition_en": "A B cell is the antibody-producing arm of adaptive immunity — it becomes either a plasma cell or a memory cell."
+  },
+  {
+    "name": "Cytotoxic T Cell",
+    "korean": "세포독성 T 세포",
+    "french": "Lymphocyte T cytotoxique",
+    "category": "Adaptive",
+    "definition_en": "A cytotoxic T cell (CD8+) is the targeted killer of the adaptive system — it destroys infected or cancerous cells directly."
+  },
+  {
+    "name": "Helper T Cell",
+    "korean": "보조 T 세포",
+    "french": "Lymphocyte T auxiliaire",
+    "category": "Adaptive",
+    "definition_en": "A helper T cell (CD4+) is the orchestrator of the adaptive immune response — it activates B cells and macrophages."
+  },
+  {
+    "name": "Memory Cell",
+    "korean": "기억세포",
+    "french": "Cellule mémoire",
+    "category": "Adaptive",
+    "definition_en": "A memory cell is a long-lived T or B cell that 'remembers' a past antigen and responds explosively on re-exposure."
+  },
+  {
+    "name": "Dendritic Cell",
+    "korean": "수지상세포",
+    "french": "Cellule dendritique",
+    "category": "Cells",
+    "definition_en": "A dendritic cell is a sentinel that captures antigens in tissues and migrates to lymph nodes to teach T cells."
+  },
+  {
+    "name": "Lymph Node",
+    "korean": "림프절",
+    "french": "Ganglion lymphatique",
+    "category": "Cells",
+    "definition_en": "A lymph node is a bean-shaped filter where dendritic cells meet T cells — where adaptive immunity is born."
+  },
+  {
+    "name": "Mast Cell",
+    "korean": "비만세포",
+    "french": "Mastocyte",
+    "category": "Cells",
+    "definition_en": "A mast cell is a tissue-resident innate cell that releases histamine — the central player in allergy."
+  },
+  {
+    "name": "Plasma Cell",
+    "korean": "형질세포",
+    "french": "Plasmocyte",
+    "category": "Cells",
+    "definition_en": "A plasma cell is a terminally differentiated B cell — an antibody factory."
+  },
+  {
+    "name": "Regulatory T Cell",
+    "korean": "조절 T 세포",
+    "french": "Lymphocyte T régulateur",
+    "category": "Cells",
+    "definition_en": "A regulatory T cell (Treg) is a subtype that brakes the immune response — preventing autoimmunity."
+  },
+  {
+    "name": "Antibody",
+    "korean": "항체",
+    "french": "Anticorps",
+    "category": "Molecules",
+    "definition_en": "An antibody (immunoglobulin) is a Y-shaped protein made by B cells that recognises one specific antigen."
+  },
+  {
+    "name": "Cytokine",
+    "korean": "사이토카인",
+    "french": "Cytokine",
+    "category": "Molecules",
+    "definition_en": "A cytokine is a small signalling protein that immune cells use to talk to each other."
+  },
+  {
+    "name": "IgE",
+    "korean": "면역글로불린 E",
+    "french": "Immunoglobuline E",
+    "category": "Molecules",
+    "definition_en": "IgE is the antibody class that drives allergic reactions by arming mast cells."
+  },
+  {
+    "name": "Interferon",
+    "korean": "인터페론",
+    "french": "Interféron",
+    "category": "Molecules",
+    "definition_en": "An interferon is a cytokine that 'interferes' with viral replication and activates immune cells."
+  },
+  {
+    "name": "MHC",
+    "korean": "주조직적합복합체",
+    "french": "Complexe majeur d'histocompatibilité",
+    "category": "Molecules",
+    "definition_en": "MHC (Major Histocompatibility Complex) is a set of cell-surface molecules that display peptide fragments to T cells."
+  },
+  {
+    "name": "Adjuvant",
+    "korean": "보조제",
+    "french": "Adjuvant",
+    "category": "Vaccines",
+    "definition_en": "An adjuvant is a substance added to a vaccine to boost the immune response to the antigen."
+  },
+  {
+    "name": "Attenuated Vaccine",
+    "korean": "약독화 백신",
+    "french": "Vaccin atténué",
+    "category": "Vaccines",
+    "definition_en": "An attenuated vaccine uses a weakened but live form of a pathogen to induce a strong, long-lasting response."
+  },
+  {
+    "name": "mRNA Vaccine",
+    "korean": "mRNA 백신",
+    "french": "Vaccin à ARNm",
+    "category": "Vaccines",
+    "definition_en": "An mRNA vaccine delivers messenger RNA encoding a viral protein, which cells then make and display."
+  },
+  {
+    "name": "Vaccine Schedule",
+    "korean": "예방접종 일정",
+    "french": "Calendrier vaccinal",
+    "category": "Vaccines",
+    "definition_en": "A vaccine schedule is the recommended timeline of vaccinations from infancy through adulthood."
+  },
+  {
+    "name": "Vaccine",
+    "korean": "백신",
+    "french": "Vaccin",
+    "category": "Vaccines",
+    "definition_en": "A vaccine is a preparation that trains adaptive immunity to recognise a pathogen — without causing the disease."
+  },
+  {
+    "name": "Allergy",
+    "korean": "알레르기",
+    "french": "Allergie",
+    "category": "Allergy",
+    "definition_en": "An allergy is an immune reaction to a normally harmless substance, mediated mostly by IgE and mast cells."
+  },
+  {
+    "name": "Anaphylaxis",
+    "korean": "아나필락시스",
+    "french": "Anaphylaxie",
+    "category": "Allergy",
+    "definition_en": "Anaphylaxis is a severe, systemic allergic reaction that can become fatal within minutes."
+  },
+  {
+    "name": "Atopy",
+    "korean": "아토피",
+    "french": "Atopie",
+    "category": "Allergy",
+    "definition_en": "Atopy is the genetic tendency to develop IgE-mediated allergies — eczema, asthma, hay fever, food allergy."
+  },
+  {
+    "name": "Histamine",
+    "korean": "히스타민",
+    "french": "Histamine",
+    "category": "Allergy",
+    "definition_en": "Histamine is a small molecule released by mast cells that causes itch, swelling, and bronchoconstriction."
+  },
+  {
+    "name": "Hygiene Hypothesis",
+    "korean": "위생 가설",
+    "french": "Hypothèse hygiéniste",
+    "category": "Allergy",
+    "definition_en": "The hygiene hypothesis proposes that reduced early-life microbial exposure increases allergy and autoimmune risk."
+  },
+  {
+    "name": "Autoimmunity",
+    "korean": "자가면역",
+    "french": "Auto-immunité",
+    "category": "Autoimmune",
+    "definition_en": "Autoimmunity is a state where the immune system attacks the body's own tissues, mistaking 'self' for 'non-self'."
+  },
+  {
+    "name": "Immunodeficiency",
+    "korean": "면역결핍",
+    "french": "Immunodéficience",
+    "category": "Autoimmune",
+    "definition_en": "Immunodeficiency is a state of weakened or absent immune function — increasing infection susceptibility."
+  },
+  {
+    "name": "Multiple Sclerosis",
+    "korean": "다발성 경화증",
+    "french": "Sclérose en plaques",
+    "category": "Autoimmune",
+    "definition_en": "Multiple sclerosis (MS) is an autoimmune disease where T cells attack the myelin sheath of nerve cells in the CNS."
+  },
+  {
+    "name": "Tolerance",
+    "korean": "면역 관용",
+    "french": "Tolérance immunitaire",
+    "category": "Autoimmune",
+    "definition_en": "Immune tolerance is the failure-mode-avoiding property: the system learns NOT to attack self."
+  },
+  {
+    "name": "Type 1 Diabetes",
+    "korean": "제1형 당뇨병",
+    "french": "Diabète de type 1",
+    "category": "Autoimmune",
+    "definition_en": "Type 1 diabetes is an autoimmune disease where T cells destroy the insulin-producing beta cells of the pancreas."
+  },
+  {
+    "name": "Exercise and Immunity",
+    "korean": "운동과 면역",
+    "french": "Exercice et immunité",
+    "category": "Daily-life",
+    "definition_en": "Exercise has a J-shaped dose-response with immunity — moderate boosts it, extreme exhausts it."
+  },
+  {
+    "name": "Gut Microbiome",
+    "korean": "장내 미생물군",
+    "french": "Microbiome intestinal",
+    "category": "Daily-life",
+    "definition_en": "The gut microbiome is the trillions of bacteria, archaea, fungi, and viruses living in the intestines — central to immune calibration."
+  },
+  {
+    "name": "Sleep and Immunity",
+    "korean": "수면과 면역",
+    "french": "Sommeil et immunité",
+    "category": "Daily-life",
+    "definition_en": "Sleep, especially deep slow-wave sleep, consolidates immune memory and recalibrates inflammation."
+  },
+  {
+    "name": "Stress and Immunity",
+    "korean": "스트레스와 면역",
+    "french": "Stress et immunité",
+    "category": "Daily-life",
+    "definition_en": "Stress modulates immunity through the HPA axis — cortisol suppresses lymphocytes while shifting cytokine balance."
+  },
+  {
+    "name": "Sunlight Vitamin D",
+    "korean": "햇빛과 비타민 D",
+    "french": "Lumière solaire et vitamine D",
+    "category": "Daily-life",
+    "definition_en": "Sunlight on skin synthesises vitamin D, which directly regulates immune cell function — modulating both innate and adaptive arms."
+  }
+]
