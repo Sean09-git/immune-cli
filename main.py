@@ -16,8 +16,10 @@ def search(terms, query):
 
 
 def display(term):
-    print(f"\n{term['name']}  ({term['korean']} · {term['french']})")
-    print(f"Category : {term['category']}")
+    print(f"\nName      : {term['name']}")
+    print(f"Korean    : {term['korean']}")
+    print(f"French    : {term['french']}")
+    print(f"Category  : {term['category']}")
     print(f"Definition: {term['definition_en']}")
 
 
