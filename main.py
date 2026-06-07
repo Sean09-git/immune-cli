@@ -4,6 +4,9 @@ import json
 import random
 import sys
 from pathlib import Path
+from colorama import Fore, Style, init
+
+init(autoreset=True)
 
 DATA = Path(__file__).parent / "immuno_terms.json"
 
@@ -57,7 +60,7 @@ def display(term):
     print(f"Korean    : {term['korean']}")
     print(f"French    : {term['french']}")
     print(f"Category  : {term['category']}")
-    print(f"Definition: {term['definition_en']}")
+    print(Fore.CYAN + f"Definition: {term['definition_en']}")
 
 
 def is_correct(answer, term):
@@ -74,10 +77,10 @@ def quiz(terms, lang):
         print(f"\n[{i}/10]")
         answer = input(p["question"].format(definition=term["definition_en"]))
         if is_correct(answer, term):
-            print(p["correct"])
+            print(Fore.GREEN + f"✅ {p['correct']}")
             score += 1
         else:
-            print(p["wrong"].format(en=term["name"], ko=term["korean"], fr=term["french"]))
+            print(Fore.RED + f"❌ {p['wrong'].format(en=term['name'], ko=term['korean'], fr=term['french'])}")
             wrong.append(term)
 
     print(f"\n{p['score'].format(score=score)}")
