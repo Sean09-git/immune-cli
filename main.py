@@ -1,3 +1,4 @@
+import difflib
 import json
 import sys
 from pathlib import Path
@@ -10,9 +11,19 @@ def load_terms():
         return json.load(f)
 
 
+def normalize(s):
+    return s.lower().replace("-", "").replace(" ", "")
+
+
 def search(terms, query):
     q = query.lower()
-    return [t for t in terms if q in t["name"].lower()]
+    qn = normalize(query)
+    return [t for t in terms if q in t["name"].lower() or qn in normalize(t["name"])]
+
+
+def suggest(terms, query):
+    names = [t["name"] for t in terms]
+    return difflib.get_close_matches(query, names, n=3, cutoff=0.4)
 
 
 def display(term):
@@ -33,7 +44,11 @@ def main():
     matches = search(terms, query)
 
     if not matches:
-        print(f"No match for '{query}'.")
+        suggestions = suggest(terms, query)
+        if suggestions:
+            print(f"No match for '{query}'. Did you mean: {', '.join(suggestions)}?")
+        else:
+            print(f"No match for '{query}'.")
         sys.exit(1)
 
     for match in matches:
